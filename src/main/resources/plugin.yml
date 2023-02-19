@@ -1,0 +1,6 @@
+name: MinionPlugin
+version: '${project.version}'
+main: com.hmmbo.minion.Maiin
+api-version: 1.19
+commands:
+  minions:
